@@ -1,5 +1,5 @@
 {
-    "name": "callmez/yii2-wechat",
+    "name": "ccc008/yii2-wechat",
     "type": "yii2-extension",
     "description": "The wechat module for the Yii framework",
     "keywords": ["yii2", "wechat", "weixin", "module"],
